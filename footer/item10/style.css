@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700&subset=cyrillic');
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	background-color: #fff;
+	letter-spacing: 0.2px;
+}
+
+#wrapper-footer {
+	width: 100%;
+	height: auto;
+	background-image: url('https://img1.akspic.com/image/80397-ustrojstvo_vvoda-klaviatura-tehnologii-probel-elektronnoe_ustrojstvo-1920x1200.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+	.footer {
+		width: 1200px;
+		height: auto;
+		margin: 0 auto;
+		padding: 100px 0;
+	}
+		.footer .title-footer {
+			width: 100%;
+			height: auto;
+			margin: 0 auto 50px auto;
+		}
+			.footer .title-footer h3 {
+				font-size: 36px;
+				color: #fff;
+				line-height: 1;
+				font-weight: 600;
+				text-align: center;
+			}
+		.footer .description-footer {
+			width: 60%;
+			height: auto;
+			margin: 0 auto 50px auto;
+		}
+			.footer .description-footer p {
+				font-size: 16px;
+				color: #fff;
+				line-height: 1.8;
+				text-align: center;
+				text-shadow: 0 0 1px #000;
+			}
+	.footer ul {
+		display: flex;
+			justify-content: space-between;
+		width: 50%;
+		height: auto;
+		margin: 0 auto 50px auto;
+		list-style-type: none;
+		list-style-position: inside;
+	}
+		.footer ul li {
+			display: flex;
+				justify-content: center;
+			width: 20%;
+			height: auto;
+		}
+			.footer ul li img {
+				display: inline-block;
+				vertical-align: bottom;
+				margin: 0 auto;
+			}
+
+	.footer .copyright {
+		width: 100%;
+		height: auto;
+	}
+		.footer .copyright p {
+			font-size: 14px;
+			color: #fff;
+			line-height: 1;
+			text-align: center;
+			text-shadow: 0 0 1px #000;
+		}
