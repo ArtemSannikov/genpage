@@ -22,3 +22,9 @@ Team - Команда
 ![screenshot of block Item3](https://user-images.githubusercontent.com/31792522/69053167-a0267300-0a2a-11ea-9d66-8dee04ac8a07.jpg)
 
 <hr>
+
+**Блок Item4**
+
+![screenshot of block Item4](https://user-images.githubusercontent.com/31792522/69053961-62c2e500-0a2c-11ea-84ef-e51c4116a480.jpg)
+
+<hr>

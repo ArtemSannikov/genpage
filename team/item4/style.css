@@ -14,7 +14,7 @@ body {
 #wrapper-team {
 	width: 100%;
 	height: auto;
-	background-color: #fff;
+	background-color: #efefef;
 }
 	.team {
 		width: 1200px;
@@ -59,9 +59,8 @@ body {
 				list-style-type: none;
 			}
 				.team .humans-team ul li {
-					position: relative;
 					width: 320px;
-					height: 420px;
+					height: auto;
 					margin: 0 50px 0 0;
 					overflow: hidden;
 				}
@@ -73,11 +72,10 @@ body {
 						vertical-align: bottom;
 					}
 					.team .humans-team ul li .human-info {
-						position: absolute;
-						bottom: 30px;
 						width: 100%;
 						height: auto;
-						padding: 0 30px;
+						padding: 20px 30px;
+						background-color: #fff;
 						box-sizing: border-box;
 					}
 						.team .humans-team ul li .human-info h4 {
