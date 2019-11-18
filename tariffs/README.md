@@ -1,4 +1,4 @@
-Team - Команда
+Tariffs - Тарифы
 =====================
 
 Для интеграции готового блока в ваш шаблон нужно скопировать код HTML/CSS.
@@ -7,24 +7,48 @@ Team - Команда
 
 **Блок Item1**
 
-![screenshot of block Item1](https://user-images.githubusercontent.com/31792522/69048059-5fc0f800-0a1e-11ea-91ce-b25109c05f52.jpg)
+![screenshot of block Item1](https://user-images.githubusercontent.com/31792522/69080538-01b40500-0a5e-11ea-91d4-01bf4bbe9b32.jpg)
 
 <hr>
 
 **Блок Item2**
 
-![screenshot of block Item2](https://user-images.githubusercontent.com/31792522/69048297-f68db480-0a1e-11ea-87f2-0f775847f33d.jpg)
+![screenshot of block Item2]()
 
 <hr>
 
 **Блок Item3**
 
-![screenshot of block Item3](https://user-images.githubusercontent.com/31792522/69053167-a0267300-0a2a-11ea-9d66-8dee04ac8a07.jpg)
+![screenshot of block Item3]()
 
 <hr>
 
 **Блок Item4**
 
-![screenshot of block Item4](https://user-images.githubusercontent.com/31792522/69053961-62c2e500-0a2c-11ea-84ef-e51c4116a480.jpg)
+![screenshot of block Item4]()
+
+<hr>
+
+**Блок Item5**
+
+![screenshot of block Item5]()
+
+<hr>
+
+**Блок Item6**
+
+![screenshot of block Item6]()
+
+<hr>
+
+**Блок Item7**
+
+![screenshot of block Item7]()
+
+<hr>
+
+**Блок Item8**
+
+![screenshot of block Item8]()
 
 <hr>

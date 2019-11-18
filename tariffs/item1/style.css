@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700&subset=cyrillic');
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	background-color: #fff;
+	letter-spacing: 0.2px;
+}
+
+#wrapper-tariffs {
+	width: 100%;
+	height: auto;
+	background-color: #efefef;
+}
+	.tariffs {
+		width: 1200px;
+		height: auto;
+		margin: 0 auto;
+		padding: 50px 0;
+	}
+		.tariffs .title {
+			width: 100%;
+			height: auto;
+			margin: 0 auto 30px auto;
+		}
+			.tariffs .title h3 {
+				font-size: 36px;
+				line-height: 1;
+				font-weight: 600;
+				color: #333;
+				text-align: center;
+			}
+		.tariffs .description {
+			width: 50%;
+			height: auto;
+			margin: 0 auto 50px auto;
+		}
+			.tariffs .description p {
+				font-size: 16px;
+				color: #333;
+				line-height: 1.8;
+				text-align: center;
+			}
+		.tariffs .grid {
+			width: 100%;
+			height: auto;
+		}
+			.tariffs .grid ul {
+				width: 100%;
+				height: auto;
+				display: flex;
+					justify-content: space-between;
+				list-style-position: inside;
+				list-style-type: none;
+			}
+				.tariffs .grid ul li {
+					width: 45%;
+					height: auto;
+					padding: 50px 50px;
+					background-color: #fff;
+					border-radius: 10px;
+					box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.10);
+					box-sizing: border-box;
+				}
+					.tariffs .grid ul li span.price {
+						display: block;
+						margin: 0 auto 20px auto;
+						font-size: 26px;
+						color: #000;
+						line-height: 1;
+						font-weight: bold;
+						text-align: center;
+					}
+					.tariffs .grid ul li span.description-plan {
+						display: block;
+						margin: 0 auto 20px auto;
+						font-size: 16px;
+						color: #333;
+						line-height: 1.8;
+						text-align: center;
+					}
+					.tariffs .grid ul li span.join {
+						display: block;
+						margin: 0 auto;
+						text-align: center;
+					}
+						.tariffs .grid ul li span.join a {
+							display: inline-block;
+							font-size: 14px;
+							color: #fff;
+							line-height: 1;
+							border-radius: 3px;
+							padding: 10px 20px;
+							background-color: #13CE66;
+							text-decoration: none;
+							cursor: pointer;
+						}
+							.tariffs .grid ul li span.join a:hover {
+								background-color: #13b55b;
+							}
