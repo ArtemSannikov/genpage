@@ -3,6 +3,8 @@
 
 Для интеграции готового блока в ваш шаблон нужно скопировать код HTML/CSS.
 
+P.S: Если я сэкномил вам время, пожалуйста, оставьте обратную связь в социальных сетях или пожертвуйте любую сумму на развитие.
+
 Сайт автора: [https://artemsannikov.ru](https://artemsannikov.ru)
 
 **Блок Item1**
@@ -62,5 +64,11 @@
 **Блок Item10**
 
 ![screenshot of block Item10](https://user-images.githubusercontent.com/31792522/69045835-80d31a00-0a19-11ea-832b-2b33a30292c9.jpg)
+
+<hr>
+
+**Блок Item11**
+
+![screenshot of block Item11](https://user-images.githubusercontent.com/31792522/69046593-28048100-0a1b-11ea-8dee-d5476febb79d.jpg)
 
 <hr>
