@@ -22,34 +22,34 @@ body {
 		margin: 0 auto;
 		padding: 50px 0;
 	}
-		.team .title-team {
+		.team .title {
 			width: 100%;
 			height: auto;
 			margin: 0 auto 30px auto;
 		}
-			.team .title-team h3 {
+			.team .title h3 {
 				font-size: 36px;
 				line-height: 1;
 				font-weight: 600;
 				color: #333;
 				text-align: center;
 			}
-		.team .description-team {
+		.team .description {
 			width: 50%;
 			height: auto;
 			margin: 0 auto 50px auto;
 		}
-			.team .description-team p {
+			.team .description p {
 				font-size: 16px;
 				color: #333;
 				line-height: 1.8;
 				text-align: center;
 			}
-		.team .humans-team {
+		.team .humans {
 			width: 100%;
 			height: auto;
 		}
-			.team .humans-team ul {
+			.team .humans ul {
 				width: 100%;
 				height: auto;
 				display: flex;
@@ -57,34 +57,34 @@ body {
 				list-style-position: inside;
 				list-style-type: none;
 			}
-				.team .humans-team ul li {
+				.team .humans ul li {
 					width: 320px;
 					height: auto;
 					margin: 0 50px 0 0;
 					overflow: hidden;
 				}
-						.team .humans-team ul li:last-child {
+						.team .humans ul li:last-child {
 							margin: 0 0 0 0;
 						}
-					.team .humans-team ul li img {
+					.team .humans ul li img {
 						display: block;
 						vertical-align: bottom;
 					}
-					.team .humans-team ul li .human-info {
+					.team .humans ul li .info {
 						width: 100%;
 						height: auto;
 						padding: 20px 30px;
 						background-color: #fff;
 						box-sizing: border-box;
 					}
-						.team .humans-team ul li .human-info h4 {
+						.team .humans ul li .info h4 {
 							font-size: 16px;
 							font-weight: 600;
 							line-height: 1;
 							color: #333;
 							margin: 0 0 10px 0;
 						}
-						.team .humans-team ul li .human-info p {
+						.team .humans ul li .info p {
 							font-size: 14px;
 							line-height: 1;
 							color: #666;

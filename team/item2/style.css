@@ -22,35 +22,35 @@ body {
 		margin: 0 auto;
 		padding: 50px 0;
 	}
-		.team .title-team {
+		.team .title {
 			width: 100%;
 			height: auto;
 			margin: 0 auto 30px auto;
 		}
-			.team .title-team h3 {
+			.team .title h3 {
 				font-size: 36px;
 				line-height: 1;
 				font-weight: 600;
 				color: #333;
 				text-align: center;
 			}
-		.team .description-team {
+		.team .description {
 			width: 50%;
 			height: auto;
 			margin: 0 auto 50px auto;
 		}
-			.team .description-team p {
+			.team .description p {
 				font-size: 16px;
 				color: #333;
 				line-height: 1.8;
 				text-align: center;
 			}
-		.team .humans-team {
+		.team .humans {
 			width: 80%;
 			height: auto;
 			margin: 0 auto;
 		}
-			.team .humans-team ul {
+			.team .humans ul {
 				width: 100%;
 				height: auto;
 				display: flex;
@@ -58,23 +58,23 @@ body {
 				list-style-position: inside;
 				list-style-type: none;
 			}
-				.team .humans-team ul li {
+				.team .humans ul li {
 					width: 160px;
 					height: auto;
 				}
-					.team .humans-team ul li img {
+					.team .humans ul li img {
 						display: block;
 						vertical-align: bottom;
 						margin: 0 0 20px 0;
 					}
-					.team .humans-team ul li h4 {
+					.team .humans ul li h4 {
 						font-size: 16px;
 						font-weight: 600;
 						line-height: 1;
 						color: #333;
 						margin: 0 0 10px 0;
 					}
-					.team .humans-team ul li p {
+					.team .humans ul li p {
 						font-size: 14px;
 						line-height: 1;
 						color: #666;
