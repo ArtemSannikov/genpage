@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700&subset=cyrillic');
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	background-color: #fff;
+	letter-spacing: 0.2px;
+}
+
+.footer {
+	width: 100%;
+	height: auto;
+	display: flex;
+		justify-content: space-between;
+		align-items: center;
+	background-color: #24292E;
+	padding: 30px 30px;
+	box-sizing: border-box;
+}
+	.footer .title-company {
+		width: 33%;
+		height: auto;
+	}
+		.footer .title-company h1 {
+			font-size: 18px;
+			font-weight: 600;
+			color: #fff;
+			line-height: 1;
+		}
+	.footer .link {
+		width: 33%;
+		height: auto;
+	}
+		.footer .link ul {
+			display: flex;
+				justify-content: center;
+			width: 100%;
+			height: auto;
+			list-style-type: none;
+			list-style-position: inside;
+		}
+			.footer .link ul li {
+				width: 10%;
+				height: auto;
+				margin: 0 20px;
+				font-size: 14px;
+				font-weight: 600;
+				line-height: 1;
+				text-align: center;
+			}
+				.footer .link ul li a {
+					color: #fff;
+					text-decoration: none;
+				}
+					.footer .link ul li a:hover {
+						text-decoration: underline;
+					}
+	.footer .back-to-top {
+		width: 33%;
+		height: auto;
+	}
+		.footer .back-to-top p {
+			font-size: 14px;
+			color: #fff;
+			line-height: 1;
+			text-align: right;
+		}
+			.footer .back-to-top p a {
+				text-decoration: none;
+				color: #fff;
+			}
+				.footer .back-to-top p a:hover {
+					text-decoration: underline;
+				}

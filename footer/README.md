@@ -28,3 +28,21 @@
 ![screenshot of block Item4](https://user-images.githubusercontent.com/31792522/69032357-1496ed00-09fe-11ea-8573-93a27468f743.jpg)
 
 <hr>
+
+**Блок Item5**
+
+![screenshot of block Item5](https://user-images.githubusercontent.com/31792522/69033284-8112eb80-0a00-11ea-86b4-71b17e6a5b61.jpg)
+
+<hr>
+
+**Блок Item6**
+
+![screenshot of block Item6](https://user-images.githubusercontent.com/31792522/69033299-8839f980-0a00-11ea-9487-9527512cbabf.jpg)
+
+<hr>
+
+**Блок Item7**
+
+![screenshot of block Item7](https://user-images.githubusercontent.com/31792522/69033319-8f610780-0a00-11ea-9cac-2035d3107525.jpg)
+
+<hr>
