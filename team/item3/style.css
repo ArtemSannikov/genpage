@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700&subset=cyrillic');
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	background-color: #fff;
+	letter-spacing: 0.2px;
+}
+
+#wrapper-team {
+	width: 100%;
+	height: auto;
+	background-color: #fff;
+}
+	.team {
+		width: 1200px;
+		height: auto;
+		margin: 0 auto;
+		padding: 50px 0;
+	}
+		.team .title-team {
+			width: 100%;
+			height: auto;
+			margin: 0 auto 30px auto;
+		}
+			.team .title-team h3 {
+				font-size: 36px;
+				line-height: 1;
+				font-weight: 600;
+				color: #333;
+				text-align: center;
+			}
+		.team .description-team {
+			width: 50%;
+			height: auto;
+			margin: 0 auto 50px auto;
+		}
+			.team .description-team p {
+				font-size: 16px;
+				color: #333;
+				line-height: 1.8;
+				text-align: center;
+			}
+		.team .humans-team {
+			width: 100%;
+			height: auto;
+			margin: 0 0 30px 0;
+		}
+			.team .humans-team ul {
+				width: 100%;
+				height: auto;
+				display: flex;
+					justify-content: center;
+				list-style-position: inside;
+				list-style-type: none;
+			}
+				.team .humans-team ul li {
+					position: relative;
+					width: 320px;
+					height: 420px;
+					height: auto;
+					margin: 0 50px 0 0;
+					overflow: hidden;
+				}
+						.team .humans-team ul li:last-child {
+							margin: 0 0 0 0;
+						}
+					.team .humans-team ul li img {
+						display: block;
+						vertical-align: bottom;
+					}
+					.team .humans-team ul li .human-info {
+						position: absolute;
+						bottom: 30px;
+						width: 100%;
+						height: auto;
+						padding: 0 30px;
+						box-sizing: border-box;
+					}
+						.team .humans-team ul li .human-info h4 {
+							font-size: 16px;
+							font-weight: 600;
+							line-height: 1;
+							color: #333;
+							margin: 0 0 10px 0;
+						}
+						.team .humans-team ul li .human-info p {
+							font-size: 14px;
+							line-height: 1;
+							color: #666;
+						}
