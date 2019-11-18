@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700&subset=cyrillic');
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	background-color: #fff;
+	letter-spacing: 0.2px;
+}
+
+.footer {
+	width: 100%;
+	height: auto;
+	display: flex;
+		justify-content: space-between;
+		align-items: center;
+	background-color: #24292E;
+	padding: 30px 30px;
+	box-sizing: border-box;
+}
+	.footer .title-company {
+		width: 33%;
+		height: auto;
+	}
+		.footer .title-company h1 {
+			font-size: 18px;
+			font-weight: 600;
+			color: #fff;
+			line-height: 1;
+		}
+	.social-networks {
+		width: 33%;
+		height: auto;
+	}
+		.footer .social-networks ul {
+			display: flex;
+				justify-content: flex-end;
+			width: 100%;
+			height: auto;
+			list-style-type: none;
+			list-style-position: inside;
+		}
+			.footer .social-networks ul li {
+				display: flex;
+					justify-content: center;
+				width: 10%;
+				height: auto;
+			}
+				.footer .social-networks ul li img {
+					display: inline-block;
+					vertical-align: bottom;
+					margin: 0 auto;
+				}
+	.footer .copyright {
+		width: 33%;
+		height: auto;
+	}
+		.footer .copyright p {
+			font-size: 14px;
+			color: #fff;
+			line-height: 1;
+			text-align: center;
+		}
