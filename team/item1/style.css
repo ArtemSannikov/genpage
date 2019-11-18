@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700&subset=cyrillic');
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	background-color: #fff;
+	letter-spacing: 0.2px;
+}
+
+#wrapper-team {
+	width: 100%;
+	height: auto;
+	background-color: #fff;
+}
+	.team {
+		width: 1200px;
+		height: auto;
+		margin: 0 auto;
+		padding: 50px 0;
+	}
+		.team .title-team {
+			width: 100%;
+			height: auto;
+			margin: 0 auto 30px auto;
+		}
+			.team .title-team h3 {
+				font-size: 36px;
+				line-height: 1;
+				font-weight: 600;
+				color: #333;
+				text-align: center;
+			}
+		.team .description-team {
+			width: 50%;
+			height: auto;
+			margin: 0 auto 50px auto;
+		}
+			.team .description-team p {
+				font-size: 16px;
+				color: #333;
+				line-height: 1.8;
+				text-align: center;
+			}
+		.team .humans-team {
+			width: 80%;
+			height: auto;
+			margin: 0 auto 30px auto;
+		}
+			.team .humans-team ul {
+				width: 100%;
+				height: auto;
+				display: flex;
+					justify-content: space-between;
+				list-style-position: inside;
+				list-style-type: none;
+			}
+				.team .humans-team ul li {
+					width: 25%;
+					height: auto;
+				}
+					.team .humans-team ul li img {
+						display: block;
+						vertical-align: bottom;
+						margin: 0 auto 20px auto;
+						border-radius: 50%;
+					}
+					.team .humans-team ul li h4 {
+						font-size: 16px;
+						font-weight: 600;
+						line-height: 1;
+						color: #333;
+						text-align: center;
+						margin: 0 0 10px 0;
+					}
+					.team .humans-team ul li p {
+						font-size: 14px;
+						line-height: 1;
+						color: #666;
+						text-align: center;
+					}
