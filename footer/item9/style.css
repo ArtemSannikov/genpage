@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700&subset=cyrillic');
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	background-color: #fff;
+	letter-spacing: 0.2px;
+}
+
+#wrapper-footer {
+	width: 100%;
+	height: auto;
+	background-color: #24292E;
+}
+	.footer {
+		width: 1200px;
+		height: auto;
+		margin: 0 auto;
+		padding: 50px 0;
+		display: flex;
+			justify-content: space-between;
+	}
+		.footer .logo {
+			width: 40%;
+			height: auto;
+		}
+			.footer .logo img {
+				display: inline-block;
+				vertical-align: bottom;
+				margin: 0 0 20px 0;
+			}
+			.footer .logo p {
+				font-size: 14px;
+				line-height: 1;
+				color: #525252;
+			}
+		.footer .wrapper-box-links {
+			width: 30%;
+			height: auto;
+			display: flex;
+				justify-content: space-between;
+		}
+			.footer .wrapper-box-links > .box-links {
+				width: 50%;
+				height: auto;
+			}
+				.footer .wrapper-box-links > .box-links h6 {
+					font-size: 16px;
+					font-weight: bold;
+					color: #525252;
+					line-height: 1;
+					margin: 0 0 20px 0;
+					text-transform: uppercase;
+				}
+				.footer .wrapper-box-links > .box-links ul {
+					list-style-type: none;
+					list-style-position: inside;
+					width: 100%;
+					height: auto;
+				}
+					.footer .wrapper-box-links > .box-links ul li {
+						display: block;
+						font-size: 14px;
+						line-height: 1;
+						color: #fff;
+						margin: 0 0 20px 0;
+					}
+							.footer .wrapper-box-links > .box-links ul li:last-child {
+								margin: 0 0 0 0;
+							}
+						.footer .wrapper-box-links > .box-links ul li a {
+							display: inline-block;
+							color: #fff;
+							text-decoration: none;
+						}
+							.footer .wrapper-box-links > .box-links ul li a:hover {
+								text-decoration: underline;
+							}

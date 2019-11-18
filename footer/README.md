@@ -52,3 +52,9 @@
 ![screenshot of block Item8](https://user-images.githubusercontent.com/31792522/69043922-c988d400-0a15-11ea-90a7-a45d1e5ce7d5.jpg)
 
 <hr>
+
+**Блок Item9**
+
+![screenshot of block Item9](https://user-images.githubusercontent.com/31792522/69044720-3cdf1580-0a17-11ea-95c5-25ca1e4704ce.jpg)
+
+<hr>
