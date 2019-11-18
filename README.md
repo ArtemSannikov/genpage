@@ -4,4 +4,4 @@
 Сборник свёрстанных блоков для быстрой разработки продающих страних (landing page).
 Все блоки распространяются по лицензии GPL v2.
 
-[Автор сайта](https://artemsannikov.ru)
+Сайт автора: [https://artemsannikov.ru](https://artemsannikov.ru)
