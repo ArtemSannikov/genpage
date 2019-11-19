@@ -28,3 +28,25 @@ Team - Команда
 ![screenshot of block Item4](https://user-images.githubusercontent.com/31792522/69053961-62c2e500-0a2c-11ea-84ef-e51c4116a480.jpg)
 
 <hr>
+
+**Блок Item5**
+
+![screenshot of block Item5](https://user-images.githubusercontent.com/31792522/69117576-f1c61080-0ab1-11ea-938a-36d9957a90a8.jpg)
+
+<hr>
+
+**Блок Item6**
+
+![screenshot of block Item6](https://user-images.githubusercontent.com/31792522/69117579-f2f73d80-0ab1-11ea-9925-cbd8ebffb73d.jpg)
+
+<hr>
+
+**Блок Item7**
+
+![screenshot of block Item7](https://user-images.githubusercontent.com/31792522/69117585-f5f22e00-0ab1-11ea-882a-e057f8e3678a.jpg)
+
+<hr>
+
+**Блок Item8**
+
+![screenshot of block Item8](https://user-images.githubusercontent.com/31792522/69117588-f8548800-0ab1-11ea-90d3-6ad4dc2881fe.jpg)

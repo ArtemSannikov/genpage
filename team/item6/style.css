@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700&subset=cyrillic');
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	background-color: #fff;
+	letter-spacing: 0.2px;
+}
+
+#wrapper-team {
+	width: 100%;
+	height: auto;
+	background-color: #fff;
+}
+	.team {
+		width: 1200px;
+		height: auto;
+		margin: 0 auto;
+		padding: 50px 0;
+	}
+		.team .title {
+			width: 100%;
+			height: auto;
+			margin: 0 auto 30px auto;
+		}
+			.team .title h3 {
+				font-size: 36px;
+				line-height: 1;
+				font-weight: 600;
+				color: #333;
+				text-align: center;
+			}
+		.team .description {
+			width: 50%;
+			height: auto;
+			margin: 0 auto 50px auto;
+		}
+			.team .description p {
+				font-size: 16px;
+				color: #333;
+				line-height: 1.8;
+				text-align: center;
+			}
+		.team .humans {
+			width: 100%;
+			height: auto;
+		}
+			.team .humans ul {
+				width: 100%;
+				height: auto;
+				display: flex;
+					justify-content: center;
+				list-style-position: inside;
+				list-style-type: none;
+			}
+				.team .humans ul li {
+					position: relative;
+					width: 320px;
+					height: auto;
+					margin: 0 50px 0 0;
+				}
+						.team .humans ul li:last-child {
+							margin: 0 0 0 0;
+						}
+					.team .humans ul li img {
+						display: block;
+						vertical-align: bottom;
+						margin: 0 auto 20px auto;
+					}
+					.team .humans ul li .info {
+						width: 100%;
+						height: auto;
+						box-sizing: border-box;
+					}
+						.team .humans ul li .info h4 {
+							font-size: 16px;
+							font-weight: 600;
+							line-height: 1;
+							color: #333;
+							margin: 0 0 10px 0;
+						}
+						.team .humans ul li .info p {
+							font-size: 14px;
+							line-height: 1;
+							color: #666;
+						}
+					.team .humans ul li .line {
+						display: block;
+						width: 50px;
+						height: 2px;
+						background-color: #1f5bff;
+						margin: 20px 0;
+					}
+					.team .humans ul li .speech {
+						width: 100%;
+						height: auto;
+					}
+						.team .humans ul li .speech p {
+							font-size: 14px;
+							line-height: 1.8;
+							color: #333;
+						}

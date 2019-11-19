@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700&subset=cyrillic');
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	background-color: #fff;
+	letter-spacing: 0.2px;
+}
+
+#wrapper-team {
+	width: 100%;
+	height: auto;
+	background-color: #fff;
+}
+	.team {
+		width: 1200px;
+		height: auto;
+		margin: 0 auto;
+		padding: 50px 0;
+	}
+		.team .title {
+			width: 100%;
+			height: auto;
+			margin: 0 auto 30px auto;
+		}
+			.team .title h3 {
+				font-size: 36px;
+				line-height: 1;
+				font-weight: 600;
+				color: #333;
+				text-align: center;
+			}
+		.team .description {
+			width: 50%;
+			height: auto;
+			margin: 0 auto 50px auto;
+		}
+			.team .description p {
+				font-size: 16px;
+				color: #333;
+				line-height: 1.8;
+				text-align: center;
+			}
+		.team .humans {
+			width: 80%;
+			height: auto;
+			margin: 0 auto;
+		}
+
+			.team .worker {
+				width: 100%;
+				height: auto;
+				display: flex;
+					justify-content: space-between;
+					align-items: center;
+				margin: 0 0 30px 0;
+			}
+					.team .worker:last-child {
+						margin: 0 0 0 0;
+					}
+				.team .worker .photo {
+					width: 320px;
+					height: 320px;
+				}
+					.team .worker .photo img {
+						display: block;
+						vertical-align: bottom;
+					}
+				.team .worker .info {
+					width: 610px;
+					height: auto;						
+				}
+					.team .worker .info h4 {
+						font-size: 18px;
+						font-weight: bold;
+						line-height: 1;
+						color: #333;
+						margin: 0 0 10px 0;
+					}
+					.team .worker .info p.position {
+						font-size: 14px;
+						line-height: 1;
+						color: #666;
+						margin: 0 0 20px 0;
+					}
+					.team .worker .info p.speech {
+						font-size: 14px;
+						line-height: 1.8;
+						color: #333;
+					}
