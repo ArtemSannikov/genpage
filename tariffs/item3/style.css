@@ -61,7 +61,6 @@ body {
 					width: 340px;
 					height: auto;
 					background-color: #fff;
-					border-radius: 10px;
 					box-sizing: border-box;
 					margin: 0 30px 0 0;
 				}
@@ -71,74 +70,51 @@ body {
 					.tariffs .grid ul li .images {
 						width: 100%;
 						height: auto;
-						padding: 50px 30px;
-						border-top-left-radius: 5px;
-						border-top-right-radius: 5px;
-						box-sizing: border-box;
+						margin: 0 0 30px 0;
 					}
-							.tariffs .grid ul li .images.plan1 {
-								background-color: rgba(249, 181, 45, 0.9);
-							}
-							.tariffs .grid ul li .images.plan2 {
-								background-color: rgb(72, 155, 255, 0.9);
-							}
-							.tariffs .grid ul li .images.plan3 {
-								background-color: rgba(119, 206, 62, 0.9);
-							}
-						.tariffs .grid ul li .images h6 {
-							font-size: 20px;
+						.tariffs .grid ul li .images img {
+							display: block;
+							vertical-align: bottom;
+						}
+					.tariffs .grid ul li .info {
+						width: 100%;
+						height: auto;
+						margin: 0 0 30px 0;
+					}
+						.tariffs .grid ul li .info h4 {
+							font-size: 18px;
 							font-weight: 600;
-							color: #fff;
 							line-height: 1;
-							text-align: center;
-							margin: 0 0 15px 0;
+							color: #333;
+							margin: 0 0 20px 0;
 						}
-						.tariffs .grid ul li .images p {
-							font-size: 16px;
-							color: #fff;
-							line-height: 1;
-							text-align: center;
-						}
-					.tariffs .grid ul li .services {
-						padding: 20px 20px;
-						margin: 0 0 15px 0;
-						border-left: 1px solid #efefef;
-						border-right: 1px solid #efefef;
-						border-bottom: 1px solid #efefef;
-						border-bottom-left-radius: 5px;
-						border-bottom-right-radius: 5px;
-						box-sizing: border-box;
-					}
-						.tariffs .grid ul li .services p {
+						.tariffs .grid ul li .info p.price {
 							font-size: 14px;
+							font-weight: 600;
 							color: #333;
 							line-height: 1;
-							text-align: center;
-							padding: 0 0 15px 0;
-							margin: 0 0 15px 0;
-							border-bottom: 1px solid #efefef;
+							margin: 0 0 20px 0;
 						}
-							.tariffs .grid ul li .services p:last-child {
-								margin: 0 0 0 0;
-								padding: 0 0 0 0;
-								border-bottom: 0;
-							}
+						.tariffs .grid ul li .info p.description-plan {
+							font-size: 14px;
+							color: #333;
+							line-height: 1.8;
+						}
 					.tariffs .grid ul li .more {
 						width: 100%;
 						height: auto;
 					}
 						.tariffs .grid ul li .more a {
-							display: block;
+							display: inline-block;
 							font-size: 14px;
 							color: #000;
 							font-weight: 600;
 							line-height: 1;
 							text-align: center;
 							text-decoration: none;
-							padding: 15px 15px;
+							padding: 10px 15px;
 							box-sizing: border-box;
 							border: 1px solid #333;
-							border-radius: 5px;
 						}
 							.tariffs .grid ul li .more a:hover {
 								background-color: #222;

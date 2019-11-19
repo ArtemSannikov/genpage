@@ -19,7 +19,7 @@ Tariffs - Тарифы
 
 **Блок Item3**
 
-![screenshot of block Item3]()
+![screenshot of block Item3](https://user-images.githubusercontent.com/31792522/69123139-6c972780-0ac2-11ea-8288-802294c33668.jpg)
 
 <hr>
 
