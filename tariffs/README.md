@@ -31,7 +31,7 @@ Tariffs - Тарифы
 
 **Блок Item5**
 
-![screenshot of block Item5]()
+![screenshot of block Item5](https://user-images.githubusercontent.com/31792522/69140408-497d6f80-0ae4-11ea-88bd-f9d39d1cbd2c.jpg)
 
 <hr>
 
