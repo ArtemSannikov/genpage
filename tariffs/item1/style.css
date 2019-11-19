@@ -52,7 +52,6 @@ body {
 			.tariffs .grid ul {
 				width: 100%;
 				height: auto;
-				margin: 0 auto;
 				display: flex;
 					justify-content: space-between;
 				list-style-position: inside;
