@@ -43,7 +43,7 @@ Tariffs - Тарифы
 
 **Блок Item7**
 
-![screenshot of block Item7]()
+![screenshot of block Item7](https://user-images.githubusercontent.com/31792522/69144406-1095c880-0aed-11ea-8f4e-33089f9352cb.jpg)
 
 <hr>
 
