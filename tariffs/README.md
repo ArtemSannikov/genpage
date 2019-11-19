@@ -7,7 +7,7 @@ Tariffs - Тарифы
 
 **Блок Item1**
 
-![screenshot of block Item1](https://user-images.githubusercontent.com/31792522/69080538-01b40500-0a5e-11ea-91d4-01bf4bbe9b32.jpg)
+![screenshot of block Item1](https://user-images.githubusercontent.com/31792522/69123793-0c08ea00-0ac4-11ea-9f8f-5d357e0c4430.jpg)
 
 <hr>
 
@@ -25,7 +25,7 @@ Tariffs - Тарифы
 
 **Блок Item4**
 
-![screenshot of block Item4]()
+![screenshot of block Item4](https://user-images.githubusercontent.com/31792522/69123665-c0eed700-0ac3-11ea-8575-90d5ce38b473.jpg)
 
 <hr>
 

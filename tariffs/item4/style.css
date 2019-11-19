@@ -52,14 +52,13 @@ body {
 			.tariffs .grid ul {
 				width: 100%;
 				height: auto;
-				margin: 0 auto;
 				display: flex;
 					justify-content: space-between;
 				list-style-position: inside;
 				list-style-type: none;
 			}
 				.tariffs .grid ul li {
-					width: 48%;
+					width: 30%;
 					height: auto;
 					padding: 60px 50px;
 					background-color: #fff;
@@ -79,7 +78,7 @@ body {
 					.tariffs .grid ul li span.more {
 						display: block;
 						margin: 0 auto 20px auto;
-						font-size: 16px;
+						font-size: 14px;
 						color: #333;
 						line-height: 1.8;
 						text-align: center;
