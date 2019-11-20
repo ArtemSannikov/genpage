@@ -37,7 +37,7 @@ Reviews - Отзывы
 
 **Блок Item6**
 
-![screenshot of block Item6]()
+![screenshot of block Item6](https://user-images.githubusercontent.com/31792522/69230290-c96d0d80-0ba8-11ea-9a33-7a6114d6bb7d.jpg)
 
 <hr>
 
