@@ -1,4 +1,4 @@
-Landing Page
+![Logo of library GenPAGE](https://user-images.githubusercontent.com/31792522/69231190-78f6af80-0baa-11ea-97e3-33d877ec6d66.jpg)
 =====================
 
 Библиотека готовых тематических сниппетов для разработки одностраничного сайта (landing page).
