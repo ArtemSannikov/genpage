@@ -19,7 +19,7 @@ Reviews - Отзывы
 
 **Блок Item3**
 
-![screenshot of block Item3]()
+![screenshot of block Item3](https://user-images.githubusercontent.com/31792522/69214649-4f795c00-0b89-11ea-9337-f3237534d55b.jpg)
 
 <hr>
 
