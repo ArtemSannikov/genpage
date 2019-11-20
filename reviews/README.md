@@ -25,7 +25,7 @@ Reviews - Отзывы
 
 **Блок Item4**
 
-![screenshot of block Item4]()
+![screenshot of block Item4](https://user-images.githubusercontent.com/31792522/69228835-1f8c8180-0ba6-11ea-8732-d324302b41d6.jpg)
 
 <hr>
 
