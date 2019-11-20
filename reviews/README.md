@@ -7,7 +7,7 @@ Reviews - Отзывы
 
 **Блок Item1**
 
-![screenshot of block Item1]()
+![screenshot of block Item1](https://user-images.githubusercontent.com/31792522/69213119-045d4a00-0b85-11ea-93ab-e7674a41a278.jpg)
 
 <hr>
 
