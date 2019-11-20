@@ -31,7 +31,7 @@ Reviews - Отзывы
 
 **Блок Item5**
 
-![screenshot of block Item5]()
+![screenshot of block Item5](https://user-images.githubusercontent.com/31792522/69229462-41d2cf00-0ba7-11ea-8654-3fe50470d7c8.jpg)
 
 <hr>
 

@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700&subset=cyrillic');
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	background-color: #fff;
+	letter-spacing: 0.2px;
+}
+
+#wrapper-reviews {
+	width: 100%;
+	height: auto;
+	background-color: #fff;
+}
+	.reviews {
+		width: 1200px;
+		height: auto;
+		margin: 0 auto;
+		padding: 50px 0;
+	}
+		.reviews > .title {
+			width: 100%;
+			height: auto;
+			margin: 0 auto 50px auto;
+		}
+			.reviews > .title h3 {
+				font-size: 36px;
+				line-height: 1;
+				font-weight: 600;
+				color: #333;
+				text-align: center;
+			}
+		.reviews > .grid-br {
+			width: 800px;
+			height: auto;
+			margin: 0 auto;
+		}
+			.reviews > .grid-br ul {
+				width: 100%;
+				height: auto;
+				list-style-type: none;
+				list-style-position: inside;
+			}
+				.reviews > .grid-br ul li {
+					display: flex;
+						justify-content: space-between;
+					width: 100%;
+					height: auto;
+					margin: 0 0 50px 0;
+				}
+						.reviews > .grid-br ul li:last-child {
+							margin: 0 0 0 0;
+						}
+					.reviews > .grid-br ul li .images-brh {
+						width: 100px;
+						height: auto;
+						margin: 0 30px 0 0;
+					}
+						.reviews > .grid-br ul li .images-brh img {
+							display: block;
+							vertical-align: bottom;
+							max-width: 100%;
+							border-radius: 50%;
+						}
+					.reviews > .grid-br ul li .info-brh {
+						width: 670px;
+						height: auto;
+					}
+						.reviews > .grid-br ul li .info-brh h5 {
+							font-size: 14px;
+							font-weight: 600;
+							color: #333;
+							line-height: 1;
+							margin: 0 0 10px 0;
+						}
+						.reviews > .grid-br ul li .info-brh p.position-brh {
+							font-size: 13px;
+							color: #666;
+							line-height: 1;
+							margin: 0 0 15px 0;
+						}
+						.reviews > .grid-br ul li .info-brh p.reviews-brh {
+							font-size: 14px;
+							line-height: 1.8;
+							color: #333;
+						}
