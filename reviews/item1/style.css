@@ -51,7 +51,7 @@ body {
 				.reviews > .grid-br ul li {
 					display: flex;
 						justify-content: space-between;
-					width: 45%;
+					width: 575px;
 					height: auto;
 					margin: 0 0 50px 0;
 				}
@@ -71,7 +71,8 @@ body {
 							border-radius: 50%;
 						}
 					.reviews > .grid-br ul li .info-brh {
-						width: calc(100% - 130px);
+						width: 445px;
+						height: auto;
 					}
 						.reviews > .grid-br ul li .info-brh p.reviews-brh {
 							font-size: 14px;
