@@ -3,7 +3,9 @@ Tariffs - Тарифы
 
 Для интеграции готового блока в ваш шаблон нужно скопировать код HTML/CSS.
 
-Сайт автора: [https://artemsannikov.ru](https://artemsannikov.ru)
+**P.S**: Я вам помог? Оставьте пожалуйста обратную связь или поддержите разработчика [любой суммой](https://money.yandex.ru/to/41001366550213).
+
+**Сайт автора**: [https://artemsannikov.ru](https://artemsannikov.ru)
 
 **Блок Item1**
 
