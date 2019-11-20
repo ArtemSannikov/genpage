@@ -43,4 +43,4 @@ Reviews - Отзывы
 
 **Блок Item7**
 
-![screenshot of block Item7]()
+![screenshot of block Item7](https://user-images.githubusercontent.com/31792522/69230529-400a0b00-0ba9-11ea-93c5-55e58978211a.jpg)
