@@ -7,7 +7,7 @@ Landing Page
 
 **P.S**: Я вам помог? Оставьте пожалуйста обратную связь или поддержите разработчика [любой суммой](https://artemsannikov.ru).
 
-Сайт автора: [https://artemsannikov.ru](https://artemsannikov.ru)
+**Сайт автора**: [https://artemsannikov.ru](https://artemsannikov.ru)
 
 Доспутные блоки
 -----------------------------------
