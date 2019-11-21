@@ -34,3 +34,9 @@ List-pages: Список страниц
 **Блок Item5**
 
 ![screenshot of block Item5](https://user-images.githubusercontent.com/31792522/69330170-444f2a80-0c74-11ea-85e3-ce22b0d92ced.jpg)
+
+<hr>
+
+**Блок Item6**
+
+![screenshot of block Item6](https://user-images.githubusercontent.com/31792522/69331506-b6287380-0c76-11ea-8554-23bd50b232ca.jpg)
