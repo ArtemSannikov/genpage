@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700&subset=cyrillic');
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	background-color: #fff;
+	letter-spacing: 0.2px;
+}
+
+#wrapper-list-pages {
+	width: 100%;
+	height: auto;
+	background-color: #fff;
+}
+	.list-pages {
+		width: 1200px;
+		height: auto;
+		margin: 0 auto;
+		padding: 50px 0;
+	}
+		.title-bllps {
+			width: 100%;
+			height: auto;
+			margin: 0 auto 50px auto;
+		}
+			.title-bllps h3 {
+				font-size: 36px;
+				line-height: 1;
+				font-weight: 600;
+				color: #333;
+				text-align: center;
+			}
+		.grid-bllps {
+			width: 1200px;
+			height: auto;
+		}
+			.grid-bllps ul {
+				display: flex;
+					justify-content: space-between;
+				width: 100%;
+				height: auto;
+				list-style-type: none;
+				list-style-position: inside;
+			}
+				.grid-bllps ul li {
+					position: relative;
+					width: 350px;
+					height: 400px;
+					overflow: hidden;
+				}
+					.grid-bllps ul li .images-bllps {
+						position: relative;
+						width: 100%;
+						height: auto;
+					}
+						.grid-bllps ul li .images-bllps img {
+							display: block;
+							vertical-align: bottom;
+							max-width: 100%;
+						}
+					.grid-bllps ul li .info-bllps {
+						position: absolute;
+						bottom: 0;
+						width: 100%;
+						height: auto;
+						padding: 20px 20px;
+						box-sizing: border-box;
+					}
+						.grid-bllps ul li .info-bllps h5 {
+							font-size: 16px;
+							font-weight: 600;
+							line-height: 1;
+							margin: 0 0 20px 0;
+						}
+							.grid-bllps ul li .info-bllps h5 a {
+								color: #333;
+								text-decoration: none;
+							}
+								.grid-bllps ul li .info-bllps h5 a:hover {
+									text-decoration: underline;
+								}
+						.grid-bllps ul li .info-bllps p.text-bllps {
+							font-size: 14px;
+							color: #333;
+							line-height: 1.8;
+						}

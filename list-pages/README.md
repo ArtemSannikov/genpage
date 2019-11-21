@@ -27,7 +27,7 @@ List-pages: Список страниц
 
 **Блок Item4**
 
-![screenshot of block Item4]()
+![screenshot of block Item4](https://user-images.githubusercontent.com/31792522/69306385-130d3500-0c49-11ea-9781-3a1835810414.jpg)
 
 <hr>
 
