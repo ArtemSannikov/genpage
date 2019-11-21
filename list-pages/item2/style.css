@@ -35,32 +35,33 @@ body {
 				text-align: center;
 			}
 		.grid-bllps {
-			width: 1000px;
+			width: 1200px;
 			height: auto;
-			margin: 0 auto;
 		}
 			.grid-bllps ul {
 				display: flex;
 					justify-content: space-between;
 					flex-wrap: wrap;
+					align-items: stretch;
 				width: 100%;
 				height: auto;
 				list-style-type: none;
 				list-style-position: inside;
 			}
 				.grid-bllps ul li {
-					display: flex;
-						justify-content: space-between;
-					width: 100%;
+					width: 350px;
 					height: auto;
-					margin: 0 0 30px 0;
+					margin: 0 0 50px 0;
 				}
-						.grid-bllps ul li:last-child {
-							margin: 0 0 0 0;
-						}
+					.grid-bllps ul li:nth-child(4n),
+					.grid-bllps ul li:nth-child(5n),
+					.grid-bllps ul li:nth-child(6n) {
+						margin: 0 0 0 0;
+					}
 					.grid-bllps ul li .images-bllps {
-						width: 350px;
-						height: 350px;
+						width: 100%;
+						height: auto;
+						margin: 0 0 20px 0;
 					}
 						.grid-bllps ul li .images-bllps img {
 							display: block;
@@ -68,15 +69,10 @@ body {
 							max-width: 100%;
 						}
 					.grid-bllps ul li .info-bllps {
-						width: 650px;
-						height: 350px;
-						padding: 50px 50px;
-						border-left: 1px solid #efefef;
-						border-top: 1px solid #efefef;
-						border-bottom: 1px solid #efefef;
-						box-sizing: border-box;
+						width: 100%;
+						height: auto;
 					}
-						.grid-bllps ul li .info-bllps p.slogan-bllps {
+						.grid-bllps ul li .info-bllps p.category-bllps {
 							font-size: 14px;
 							color: #666;
 							line-height: 1;

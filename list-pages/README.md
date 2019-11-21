@@ -15,7 +15,7 @@ List-pages: Список страниц
 
 **Блок Item2**
 
-![screenshot of block Item2]()
+![screenshot of block Item2](https://user-images.githubusercontent.com/31792522/69305541-2c60b200-0c46-11ea-83b8-eec5a7d5f3e2.jpg)
 
 <hr>
 
