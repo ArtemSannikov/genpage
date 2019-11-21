@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700&subset=cyrillic');
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	background-color: #fff;
+	letter-spacing: 0.2px;
+}
+
+#wrapper-list-pages {
+	width: 100%;
+	height: auto;
+	background-color: #fff;
+}
+	.list-pages {
+		width: 1200px;
+		height: auto;
+		margin: 0 auto;
+		padding: 50px 0;
+	}
+		.title-bllps {
+			width: 100%;
+			height: auto;
+			margin: 0 auto 50px auto;
+		}
+			.title-bllps h3 {
+				font-size: 36px;
+				line-height: 1;
+				font-weight: 600;
+				color: #333;
+				text-align: center;
+			}
+		.grid-bllps {
+			width: 1000px;
+			height: auto;
+			margin: 0 auto;
+		}
+			.grid-bllps ul {
+				display: flex;
+					justify-content: space-between;
+					flex-wrap: wrap;
+				width: 100%;
+				height: auto;
+				list-style-type: none;
+				list-style-position: inside;
+			}
+				.grid-bllps ul li {
+					display: flex;
+						justify-content: space-between;
+					width: 100%;
+					height: auto;
+					margin: 0 0 30px 0;
+				}
+						.grid-bllps ul li:last-child {
+							margin: 0 0 0 0;
+						}
+					.grid-bllps ul li .images-bllps {
+						width: 350px;
+						height: 350px;
+					}
+						.grid-bllps ul li .images-bllps img {
+							display: block;
+							vertical-align: bottom;
+							max-width: 100%;
+						}
+					.grid-bllps ul li .info-bllps {
+						width: 650px;
+						height: 350px;
+						padding: 50px 50px;
+						border-left: 1px solid #efefef;
+						border-top: 1px solid #efefef;
+						border-bottom: 1px solid #efefef;
+						box-sizing: border-box;
+					}
+						.grid-bllps ul li .info-bllps p.slogan-bllps {
+							font-size: 14px;
+							color: #666;
+							line-height: 1;
+							margin: 0 0 20px 0;
+						}
+						.grid-bllps ul li .info-bllps h5 {
+							font-size: 16px;
+							font-weight: 600;
+							color: #333;
+							line-height: 1;
+							margin: 0 0 20px 0;
+						}
+						.grid-bllps ul li .info-bllps p.text-bllps {
+							font-size: 14px;
+							color: #333;
+							line-height: 1.8;
+						}
