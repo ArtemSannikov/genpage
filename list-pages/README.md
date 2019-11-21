@@ -21,7 +21,7 @@ List-pages: Список страниц
 
 **Блок Item3**
 
-![screenshot of block Item3]()
+![screenshot of block Item3](https://user-images.githubusercontent.com/31792522/69305851-4058e380-0c47-11ea-9353-131710a1f430.jpg)
 
 <hr>
 

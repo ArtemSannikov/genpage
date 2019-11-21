@@ -41,7 +41,6 @@ body {
 			.grid-bllps ul {
 				display: flex;
 					justify-content: space-between;
-					flex-wrap: wrap;
 					align-items: stretch;
 				width: 100%;
 				height: auto;
@@ -49,15 +48,9 @@ body {
 				list-style-position: inside;
 			}
 				.grid-bllps ul li {
-					width: 350px;
+					width: 200px;
 					height: auto;
-					margin: 0 0 50px 0;
 				}
-						.grid-bllps ul li:nth-child(4n),
-						.grid-bllps ul li:nth-child(5n),
-						.grid-bllps ul li:nth-child(6n) {
-							margin: 0 0 0 0;
-						}
 					.grid-bllps ul li .images-bllps {
 						width: 100%;
 						height: auto;
@@ -73,16 +66,16 @@ body {
 						height: auto;
 					}
 						.grid-bllps ul li .info-bllps p.category-bllps {
-							font-size: 14px;
+							font-size: 12px;
 							color: #666;
 							line-height: 1;
-							margin: 0 0 20px 0;
+							margin: 0 0 15px 0;
 						}
 						.grid-bllps ul li .info-bllps h5 {
-							font-size: 16px;
+							font-size: 14px;
 							font-weight: 600;
 							line-height: 1;
-							margin: 0 0 20px 0;
+							margin: 0 0 15px 0;
 						}
 							.grid-bllps ul li .info-bllps h5 a {
 								color: #333;
@@ -92,7 +85,7 @@ body {
 									text-decoration: underline;
 								}
 						.grid-bllps ul li .info-bllps p.text-bllps {
-							font-size: 14px;
+							font-size: 12px;
 							color: #333;
 							line-height: 1.8;
 						}
