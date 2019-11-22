@@ -22,34 +22,34 @@ body {
 		margin: 0 auto;
 		padding: 50px 0;
 	}
-		.team .title {
+		.title-bltms {
 			width: 100%;
 			height: auto;
 			margin: 0 auto 30px auto;
 		}
-			.team .title h3 {
+			.title-bltms h3 {
 				font-size: 36px;
 				line-height: 1;
 				font-weight: 600;
 				color: #333;
 				text-align: center;
 			}
-		.team .description {
+		.description-bltms {
 			width: 50%;
 			height: auto;
 			margin: 0 auto 50px auto;
 		}
-			.team .description p {
+			.description-bltms p {
 				font-size: 16px;
 				color: #333;
 				line-height: 1.8;
 				text-align: center;
 			}
-		.team .humans {
+		.grid-bltms {
 			width: 100%;
 			height: auto;
 		}
-			.team .humans ul {
+			.grid-bltms ul {
 				width: 100%;
 				height: auto;
 				display: flex;
@@ -57,49 +57,49 @@ body {
 				list-style-position: inside;
 				list-style-type: none;
 			}
-				.team .humans ul li {
+				.grid-bltms ul li {
 					position: relative;
 					width: 320px;
 					height: auto;
 					margin: 0 50px 0 0;
 				}
-						.team .humans ul li:last-child {
+						.grid-bltms ul li:last-child {
 							margin: 0 0 0 0;
 						}
-					.team .humans ul li img {
+					.grid-bltms ul li img {
 						display: block;
 						vertical-align: bottom;
 						margin: 0 auto 20px auto;
 					}
-					.team .humans ul li .info {
+					.grid-bltms ul li .info-bltms {
 						width: 100%;
 						height: auto;
 						box-sizing: border-box;
 					}
-						.team .humans ul li .info h4 {
+						.grid-bltms ul li .info-bltms h4 {
 							font-size: 16px;
 							font-weight: 600;
 							line-height: 1;
 							color: #333;
 							margin: 0 0 10px 0;
 						}
-						.team .humans ul li .info p {
+						.grid-bltms ul li .info-bltms p {
 							font-size: 14px;
 							line-height: 1;
 							color: #666;
 						}
-					.team .humans ul li .line {
+					.grid-bltms ul li .line-bltms {
 						display: block;
 						width: 50px;
 						height: 2px;
 						background-color: #1f5bff;
 						margin: 20px 0;
 					}
-					.team .humans ul li .speech {
+					.grid-bltms ul li .speech-bltms {
 						width: 100%;
 						height: auto;
 					}
-						.team .humans ul li .speech p {
+						.grid-bltms ul li .speech-bltms p {
 							font-size: 14px;
 							line-height: 1.8;
 							color: #333;

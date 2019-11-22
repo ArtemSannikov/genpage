@@ -22,35 +22,35 @@ body {
 		margin: 0 auto;
 		padding: 50px 0;
 	}
-		.tariffs .title {
+		.title-bltfs {
 			width: 100%;
 			height: auto;
 			margin: 0 auto 30px auto;
 		}
-			.tariffs .title h3 {
+			.title-bltfs h3 {
 				font-size: 36px;
 				line-height: 1;
 				font-weight: 600;
 				color: #333;
 				text-align: center;
 			}
-		.tariffs .description {
+		.description-bltfs {
 			width: 50%;
 			height: auto;
 			margin: 0 auto 50px auto;
 		}
-			.tariffs .description p {
+			.description-bltfs p {
 				font-size: 16px;
 				color: #333;
 				line-height: 1.8;
 				text-align: center;
 			}
-		.tariffs .list {
+		.list-bltfs {
 			width: 700px;
 			height: auto;
 			margin: 0 auto;
 		}
-			.tariffs .list .box-tariff {
+			.list-bltfs .box-tariff-bltfs {
 				display: flex;
 					justify-content: space-between;
 					align-items: center;
@@ -60,24 +60,24 @@ body {
 				margin: 0 0 30px 0;
 				padding: 0 0 30px 0;
 			}
-				.tariffs .list .box-tariff h4 {
+				.list-bltfs .box-tariff-bltfs h4 {
 					font-size: 20px;
 					color: #333;
 					line-height: 1;
 					font-weight: bold;
 				}
-				.tariffs .list .box-tariff p {
+				.list-bltfs .box-tariff-bltfs p {
 					font-size: 16px;
 					color: #333;
 					line-height: 1;
 					font-weight: 600;
 				}
-				.tariffs .list .more {
+				.list-bltfs .more-bltfs {
 					width: 100%;
 					height: auto;
 					text-align: center;
 				}
-					.tariffs .list .more a {
+					.list-bltfs .more-bltfs a {
 						display: inline-block;
 						font-size: 14px;
 						line-height: 1;
@@ -88,6 +88,6 @@ body {
 						background-color: #1f5bff;
 						box-sizing: border-box;
 					}
-						.tariffs .list .more a:hover {
+						.list-bltfs .more-bltfs a:hover {
 							background-color: #1c4fdc;
 						}

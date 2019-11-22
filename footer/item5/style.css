@@ -21,21 +21,21 @@ body {
 	padding: 30px 30px;
 	box-sizing: border-box;
 }
-	.footer .title-company {
+	.title-company-blfs {
 		width: 33%;
 		height: auto;
 	}
-		.footer .title-company h1 {
+		.title-company-blfs h1 {
 			font-size: 18px;
 			font-weight: 600;
 			color: #fff;
 			line-height: 1;
 		}
-	.social-networks {
+	.social-networks-blfs {
 		width: 33%;
 		height: auto;
 	}
-		.footer .social-networks ul {
+		.social-networks-blfs ul {
 			display: flex;
 				justify-content: center;
 			width: 100%;
@@ -43,31 +43,31 @@ body {
 			list-style-type: none;
 			list-style-position: inside;
 		}
-			.footer .social-networks ul li {
+			.social-networks-blfs ul li {
 				display: flex;
 					justify-content: center;
 				width: 10%;
 				height: auto;
 			}
-				.footer .social-networks ul li img {
+				.social-networks-blfs ul li img {
 					display: inline-block;
 					vertical-align: bottom;
 					margin: 0 auto;
 				}
-	.footer .back-to-top {
+	.back-to-top-blfs {
 		width: 33%;
 		height: auto;
 	}
-		.footer .back-to-top p {
+		.back-to-top-blfs p {
 			font-size: 14px;
 			color: #fff;
 			line-height: 1;
 			text-align: right;
 		}
-			.footer .back-to-top p a {
+			.back-to-top-blfs p a {
 				text-decoration: none;
 				color: #fff;
 			}
-				.footer .back-to-top p a:hover {
+				.back-to-top-blfs p a:hover {
 					text-decoration: underline;
 				}

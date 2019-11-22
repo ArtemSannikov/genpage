@@ -21,21 +21,21 @@ body {
 	padding: 30px 30px;
 	box-sizing: border-box;
 }
-	.footer .copyright {
+	.copyright-blfs {
 		width: 80%;
 		height: auto;
 	}
-		.footer .copyright p {
+		.copyright-blfs p {
 			font-size: 14px;
 			color: #fff;
 			line-height: 1;
 			text-align: left;
 		}
-	.social-networks {
+	.social-networks-blfs {
 		width: 30%;
 		height: auto;
 	}
-		.footer .social-networks ul {
+		.social-networks-blfs ul {
 			display: flex;
 				justify-content: flex-end;
 			width: 100%;
@@ -43,13 +43,13 @@ body {
 			list-style-type: none;
 			list-style-position: inside;
 		}
-			.footer .social-networks ul li {
+			.social-networks-blfs ul li {
 				display: flex;
 					justify-content: center;
 				width: 10%;
 				height: auto;
 			}
-				.footer .social-networks ul li img {
+				.social-networks-blfs ul li img {
 					display: inline-block;
 					vertical-align: bottom;
 					margin: 0 auto;

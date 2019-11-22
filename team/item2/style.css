@@ -22,35 +22,35 @@ body {
 		margin: 0 auto;
 		padding: 50px 0;
 	}
-		.team .title {
+		.title-bltms {
 			width: 100%;
 			height: auto;
 			margin: 0 auto 30px auto;
 		}
-			.team .title h3 {
+			.title-bltms h3 {
 				font-size: 36px;
 				line-height: 1;
 				font-weight: 600;
 				color: #333;
 				text-align: center;
 			}
-		.team .description {
+		.description-bltms {
 			width: 50%;
 			height: auto;
 			margin: 0 auto 50px auto;
 		}
-			.team .description p {
+			.description-bltms p {
 				font-size: 16px;
 				color: #333;
 				line-height: 1.8;
 				text-align: center;
 			}
-		.team .humans {
+		.list-bltms {
 			width: 80%;
 			height: auto;
 			margin: 0 auto;
 		}
-			.team .humans ul {
+			.list-bltms ul {
 				width: 100%;
 				height: auto;
 				display: flex;
@@ -58,23 +58,23 @@ body {
 				list-style-position: inside;
 				list-style-type: none;
 			}
-				.team .humans ul li {
+				.list-bltms ul li {
 					width: 160px;
 					height: auto;
 				}
-					.team .humans ul li img {
+					.list-bltms ul li img {
 						display: block;
 						vertical-align: bottom;
 						margin: 0 0 20px 0;
 					}
-					.team .humans ul li h4 {
+					.list-bltms ul li h4 {
 						font-size: 16px;
 						font-weight: 600;
 						line-height: 1;
 						color: #333;
 						margin: 0 0 10px 0;
 					}
-					.team .humans ul li p {
+					.list-bltms ul li p {
 						font-size: 14px;
 						line-height: 1;
 						color: #666;

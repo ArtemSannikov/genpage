@@ -22,34 +22,34 @@ body {
 		margin: 0 auto;
 		padding: 50px 0;
 	}
-		.team .title {
+		.title-bltms {
 			width: 100%;
 			height: auto;
 			margin: 0 auto 30px auto;
 		}
-			.team .title h3 {
+			.title-bltms h3 {
 				font-size: 36px;
 				line-height: 1;
 				font-weight: 600;
 				color: #333;
 				text-align: center;
 			}
-		.team .description {
+		.description-bltms {
 			width: 50%;
 			height: auto;
 			margin: 0 auto 50px auto;
 		}
-			.team .description p {
+			.description-bltms p {
 				font-size: 16px;
 				color: #333;
 				line-height: 1.8;
 				text-align: center;
 			}
-		.team .humans {
+		.grid-bltms {
 			width: 100%;
 			height: auto;
 		}
-			.team .humans ul {
+			.grid-bltms ul {
 				width: 100%;
 				height: auto;
 				display: flex;
@@ -57,21 +57,21 @@ body {
 				list-style-position: inside;
 				list-style-type: none;
 			}
-				.team .humans ul li {
+				.grid-bltms ul li {
 					position: relative;
 					width: 320px;
 					height: 420px;
 					margin: 0 50px 0 0;
 					overflow: hidden;
 				}
-						.team .humans ul li:last-child {
+						.grid-bltms ul li:last-child {
 							margin: 0 0 0 0;
 						}
-					.team .humans ul li img {
+					.grid-bltms ul li img {
 						display: block;
 						vertical-align: bottom;
 					}
-					.team .humans ul li .info {
+					.grid-bltms ul li .info-bltms {
 						position: absolute;
 						bottom: 30px;
 						width: 100%;
@@ -79,14 +79,14 @@ body {
 						padding: 0 30px;
 						box-sizing: border-box;
 					}
-						.team .humans ul li .info h4 {
+						.grid-bltms ul li .info-bltms h4 {
 							font-size: 16px;
 							font-weight: 600;
 							line-height: 1;
 							color: #333;
 							margin: 0 0 10px 0;
 						}
-						.team .humans ul li .info p {
+						.grid-bltms ul li .info-bltms p {
 							font-size: 14px;
 							line-height: 1;
 							color: #666;

@@ -16,7 +16,7 @@ body {
 	height: auto;
 	background-color: #fff;
 }
-		#wrapper-team .worker {
+		.worker-bltms {
 				width: 960px;
 				height: auto;
 				display: flex;
@@ -25,39 +25,39 @@ body {
 				margin: 0 auto;
 				padding: 50px 0;
 			}
-				#wrapper-team .worker .photo {
+				.worker-bltms .photo-bltms {
 					width: 320px;
 					height: 320px;
 				}
-					#wrapper-team .worker .photo img {
+					.worker-bltms .photo-bltms img {
 						display: block;
 						vertical-align: bottom;
 					}
-				#wrapper-team .worker .info {
+				.worker-bltms .info-bltms {
 					width: 610px;
 					height: auto;						
 				}
-					#wrapper-team .worker .info h4 {
+					.worker-bltms .info-bltms h4 {
 						font-size: 18px;
 						font-weight: bold;
 						line-height: 1;
 						color: #333;
 						margin: 0 0 10px 0;
 					}
-					#wrapper-team .worker .info p.position {
+					.worker-bltms .info-bltms p.position-bltms {
 						font-size: 14px;
 						line-height: 1;
 						color: #666;
 						margin: 0 0 20px 0;
 					}
-					#wrapper-team .worker .info .line {
+					.worker-bltms .info-bltms .line-bltms {
 						display: block;
 						width: 50px;
 						height: 2px;
 						background-color: #1f5bff;
 						margin: 20px 0;
 					}
-					#wrapper-team .worker .info p.speech {
+					.worker-bltms .info-bltms p.speech-bltms {
 						font-size: 14px;
 						line-height: 1.8;
 						color: #333;

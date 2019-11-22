@@ -24,31 +24,31 @@ body {
 		display: flex;
 			justify-content: space-between;
 	}
-		.footer .logo {
+		.logo-blfs {
 			width: 40%;
 			height: auto;
 		}
-			.footer .logo img {
+			.logo-blfs img {
 				display: inline-block;
 				vertical-align: bottom;
 				margin: 0 0 20px 0;
 			}
-			.footer .logo p {
+			.logo-blfs p {
 				font-size: 14px;
 				line-height: 1;
 				color: #525252;
 			}
-		.footer .wrapper-box-links {
+		.wrapper-box-links-blfs {
 			width: 30%;
 			height: auto;
 			display: flex;
 				justify-content: space-between;
 		}
-			.footer .wrapper-box-links > .box-links {
+			.wrapper-box-links-blfs .box-links-blfs {
 				width: 50%;
 				height: auto;
 			}
-				.footer .wrapper-box-links > .box-links h6 {
+				.wrapper-box-links-blfs .box-links-blfs h6 {
 					font-size: 16px;
 					font-weight: bold;
 					color: #525252;
@@ -56,27 +56,27 @@ body {
 					margin: 0 0 20px 0;
 					text-transform: uppercase;
 				}
-				.footer .wrapper-box-links > .box-links ul {
+				.wrapper-box-links-blfs .box-links-blfs ul {
 					list-style-type: none;
 					list-style-position: inside;
 					width: 100%;
 					height: auto;
 				}
-					.footer .wrapper-box-links > .box-links ul li {
+					.wrapper-box-links-blfs .box-links-blfs ul li {
 						display: block;
 						font-size: 14px;
 						line-height: 1;
 						color: #fff;
 						margin: 0 0 20px 0;
 					}
-							.footer .wrapper-box-links > .box-links ul li:last-child {
+							.wrapper-box-links-blfs .box-links-blfs ul li:last-child {
 								margin: 0 0 0 0;
 							}
-						.footer .wrapper-box-links > .box-links ul li a {
+						.wrapper-box-links-blfs .box-links-blfs ul li a {
 							display: inline-block;
 							color: #fff;
 							text-decoration: none;
 						}
-							.footer .wrapper-box-links > .box-links ul li a:hover {
+							.wrapper-box-links-blfs .box-links-blfs ul li a:hover {
 								text-decoration: underline;
 							}

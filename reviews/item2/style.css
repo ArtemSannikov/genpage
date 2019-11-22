@@ -22,23 +22,23 @@ body {
 		margin: 0 auto;
 		padding: 50px 0;
 	}
-		.reviews > .title {
+		.title-blrws {
 			width: 100%;
 			height: auto;
 			margin: 0 auto 70px auto;
 		}
-			.reviews > .title h3 {
+			.title-blrws h3 {
 				font-size: 36px;
 				line-height: 1;
 				font-weight: 600;
 				color: #333;
 				text-align: center;
 			}
-		.reviews > .grid-br {
+		.grid-blrws {
 			width: 1200px;
 			height: auto;
 		}
-			.reviews > .grid-br ul {
+			.grid-blrws ul {
 				display: flex;
 					justify-content: center;
 				width: 100%;
@@ -46,31 +46,31 @@ body {
 				list-style-type: none;
 				list-style-position: inside;
 			}
-				.reviews > .grid-br ul li {
+				.grid-blrws ul li {
 					width: 320px;
 					height: auto;
 					margin: 0 50px 0 0;
 				}
-						.reviews > .grid-br ul li:last-child {
+						.grid-blrws ul li:last-child {
 							margin: 0 0 0 0;
 						}
-					.reviews > .grid-br ul li .images-brh {
+					.grid-blrws ul li .images-blrws {
 						width: 100%;
 						height: auto;
 						margin: 0 0 30px 0;
 					}
-						.reviews > .grid-br ul li .images-brh img {
+						.grid-blrws ul li .images-blrws img {
 							display: block;
 							vertical-align: bottom;
 							max-width: 100%;
 							margin: 0 auto;
 							border-radius: 50%;
 						}
-					.reviews > .grid-br ul li .info-brh {
+					.grid-blrws ul li .info-blrws {
 						width: 100%;
 						height: auto;
 					}
-						.reviews > .grid-br ul li .info-brh h5 {
+						.grid-blrws ul li .info-blrws h5 {
 							font-size: 14px;
 							font-weight: 600;
 							color: #333;
@@ -78,14 +78,14 @@ body {
 							margin: 0 0 10px 0;
 							text-align: center;
 						}
-						.reviews > .grid-br ul li .info-brh p.position-brh {
+						.grid-blrws ul li .info-blrws p.position-blrws {
 							font-size: 13px;
 							color: #666;
 							line-height: 1;
 							margin: 0 0 15px 0;
 							text-align: center;
 						}
-						.reviews > .grid-br ul li .info-brh p.reviews-brh {
+						.grid-blrws ul li .info-blrws p.reviews-blrws {
 							font-size: 14px;
 							line-height: 1.8;
 							color: #333;

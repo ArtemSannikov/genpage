@@ -22,34 +22,34 @@ body {
 		margin: 0 auto;
 		padding: 50px 0;
 	}
-		.tariffs .title {
+		.tariffs .title-bltfs {
 			width: 100%;
 			height: auto;
 			margin: 0 auto 30px auto;
 		}
-			.tariffs .title h3 {
+			.tariffs .title-bltfs h3 {
 				font-size: 36px;
 				line-height: 1;
 				font-weight: 600;
 				color: #333;
 				text-align: center;
 			}
-		.tariffs .description {
+		.tariffs .description-bltfs {
 			width: 50%;
 			height: auto;
 			margin: 0 auto 50px auto;
 		}
-			.tariffs .description p {
+			.tariffs .description-bltfs p {
 				font-size: 16px;
 				color: #333;
 				line-height: 1.8;
 				text-align: center;
 			}
-		.tariffs .grid {
+		.grid-bltfs {
 			width: 100%;
 			height: auto;
 		}
-			.tariffs .grid ul {
+			.grid-bltfs ul {
 				width: 100%;
 				height: auto;
 				display: flex;
@@ -57,7 +57,7 @@ body {
 				list-style-position: inside;
 				list-style-type: none;
 			}
-				.tariffs .grid ul li {
+				.grid-bltfs ul li {
 					width: 48%;
 					height: auto;
 					padding: 60px 50px;
@@ -66,7 +66,7 @@ body {
 					box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.10);
 					box-sizing: border-box;
 				}
-					.tariffs .grid ul li span.price {
+					.grid-bltfs ul li span.price-bltfs {
 						display: block;
 						margin: 0 auto 20px auto;
 						font-size: 26px;
@@ -75,7 +75,7 @@ body {
 						font-weight: bold;
 						text-align: center;
 					}
-					.tariffs .grid ul li span.more {
+					.grid-bltfs ul li span.more-bltfs {
 						display: block;
 						margin: 0 auto 20px auto;
 						font-size: 16px;
@@ -83,12 +83,12 @@ body {
 						line-height: 1.8;
 						text-align: center;
 					}
-					.tariffs .grid ul li span.join {
+					.grid-bltfs ul li span.join-bltfs {
 						display: block;
 						margin: 0 auto;
 						text-align: center;
 					}
-						.tariffs .grid ul li span.join a {
+						.grid-bltfs ul li span.join-bltfs a {
 							display: inline-block;
 							font-size: 14px;
 							color: #fff;
@@ -99,6 +99,6 @@ body {
 							text-decoration: none;
 							cursor: pointer;
 						}
-							.tariffs .grid ul li span.join a:hover {
+							.grid-bltfs ul li span.join-bltfs a:hover {
 								background-color: #13b55b;
 							}
