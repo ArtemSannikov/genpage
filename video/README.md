@@ -40,3 +40,15 @@ Video: Видео
 **Блок Item6**
 
 ![screenshot of block Item6](https://user-images.githubusercontent.com/31792522/69460365-c5521300-0d95-11ea-8e23-7be2c1abca99.jpg)
+
+<hr>
+
+**Блок Item7**
+
+![screenshot of block Item7](https://user-images.githubusercontent.com/31792522/69460887-026ad500-0d97-11ea-9628-e014abbc78db.jpg)
+
+<hr>
+
+**Блок Item8**
+
+![screenshot of block Item8](https://user-images.githubusercontent.com/31792522/69460888-03036b80-0d97-11ea-897e-36b1f242d1a2.jpg)
