@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700&subset=cyrillic');
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	background-color: #fff;
+	letter-spacing: 0.2px;
+}
+
+#wrapper-about {
+	width: 100%;
+	height: auto;
+	background-color: #efefef;
+}
+	.about {
+		width: 800px;
+		height: auto;
+		margin: 0 auto;
+		padding: 80px 0;
+	}
+		.about h3 {
+			font-size: 30px;
+			font-weight: 600;
+			line-height: 1;
+			color: #000;
+			text-align: center;
+		}
+		.about hr {
+			display: block;
+			border: 0;
+			width: 120px;
+			height: 2px;
+			background-color: #1f5bff;
+			margin: 30px auto;
+		}
+		.about p {
+			font-size: 17px;
+			line-height: 2;
+			color: #333;
+			text-align: center;
+		}

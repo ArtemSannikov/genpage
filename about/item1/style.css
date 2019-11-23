@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700&subset=cyrillic');
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	background-color: #fff;
+	letter-spacing: 0.2px;
+}
+
+#wrapper-about {
+	width: 100%;
+	height: auto;
+	background-color: #efefef;
+}
+	.about {
+		width: 1000px;
+		height: auto;
+		margin: 0 auto;
+		padding: 120px 0;
+	}
+		.about p {
+			font-size: 22px;
+			line-height: 2;
+			color: #333;
+			text-align: center;
+		}
