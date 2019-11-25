@@ -81,46 +81,4 @@ About: О проекте
 
 **Блок Item13**
 
-![screenshot of block Item13]()
-
-<hr>
-
-**Блок Item14**
-
-![screenshot of block Item14]()
-
-<hr>
-
-**Блок Item15**
-
-![screenshot of block Item15]()
-
-<hr>
-
-**Блок Item16**
-
-![screenshot of block Item16]()
-
-<hr>
-
-**Блок Item17**
-
-![screenshot of block Item17]()
-
-<hr>
-
-**Блок Item18**
-
-![screenshot of block Item18]()
-
-<hr>
-
-**Блок Item19**
-
-![screenshot of block Item19]()
-
-<hr>
-
-**Блок Item20**
-
-![screenshot of block Item20]()
+![screenshot of block Item13](https://user-images.githubusercontent.com/31792522/69541704-990fdf80-0fab-11ea-881d-b6427f00815b.jpg)
