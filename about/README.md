@@ -64,3 +64,63 @@ About: О проекте
 **Блок Item10**
 
 ![screenshot of block Item10](https://user-images.githubusercontent.com/31792522/69525517-0f9be580-0f8a-11ea-8a92-691fe911fb39.jpg)
+
+<hr>
+
+**Блок Item11**
+
+![screenshot of block Item11](https://user-images.githubusercontent.com/31792522/69526632-728e7c00-0f8c-11ea-9328-cd52fd94b50f.jpg)
+
+<hr>
+
+**Блок Item12**
+
+![screenshot of block Item12]()
+
+<hr>
+
+**Блок Item13**
+
+![screenshot of block Item13]()
+
+<hr>
+
+**Блок Item14**
+
+![screenshot of block Item14]()
+
+<hr>
+
+**Блок Item15**
+
+![screenshot of block Item15]()
+
+<hr>
+
+**Блок Item16**
+
+![screenshot of block Item16]()
+
+<hr>
+
+**Блок Item17**
+
+![screenshot of block Item17]()
+
+<hr>
+
+**Блок Item18**
+
+![screenshot of block Item18]()
+
+<hr>
+
+**Блок Item19**
+
+![screenshot of block Item19]()
+
+<hr>
+
+**Блок Item20**
+
+![screenshot of block Item20]()
