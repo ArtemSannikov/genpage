@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700&subset=cyrillic');
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	background-color: #fff;
+	letter-spacing: 0.2px;
+}
+
+#wrapper-header {
+	width: 100%;
+	height: auto;
+	background-color: #E62929;
+}
+	.header {
+		width: 1200px;
+		height: auto;
+		margin: 0 auto;
+		padding: 25px 25px;
+		box-sizing: border-box;
+	}
+		.header ul {
+			width: 100%;
+			height: auto;
+			display: flex;
+				justify-content: space-between;
+			list-style-type: none;
+			list-style-position: inside;
+		}
+			.header ul li {
+				font-size: 14px;
+				line-height: 1;
+				color: #fff;
+			}
+					.header ul li.name-blhds {
+						font-size: 16px;
+						font-weight: 600;
+					}
+				.header ul li a {
+					display: block;
+					color: #fff;
+					text-decoration: none;
+				}
+					.header ul li a:hover {
+						text-decoration: underline;
+					}
