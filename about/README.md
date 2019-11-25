@@ -75,7 +75,7 @@ About: О проекте
 
 **Блок Item12**
 
-![screenshot of block Item12]()
+![screenshot of block Item12](https://user-images.githubusercontent.com/31792522/69541077-1f2b2680-0faa-11ea-8501-ae5402ad814a.jpg)
 
 <hr>
 
