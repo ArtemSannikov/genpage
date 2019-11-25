@@ -40,3 +40,27 @@ About: О проекте
 **Блок Item6**
 
 ![screenshot of block Item6](https://user-images.githubusercontent.com/31792522/69476777-24e50880-0e00-11ea-9dde-f7310bd78645.jpg)
+
+<hr>
+
+**Блок Item7**
+
+![screenshot of block Item7](https://user-images.githubusercontent.com/31792522/69525513-0f034f00-0f8a-11ea-89a7-3a33a76ebae5.jpg)
+
+<hr>
+
+**Блок Item8**
+
+![screenshot of block Item8](https://user-images.githubusercontent.com/31792522/69525514-0f034f00-0f8a-11ea-90d4-17c139601300.jpg)
+
+<hr>
+
+**Блок Item9**
+
+![screenshot of block Item9](https://user-images.githubusercontent.com/31792522/69525515-0f9be580-0f8a-11ea-96b8-45ca18191533.jpg)
+
+<hr>
+
+**Блок Item10**
+
+![screenshot of block Item10](https://user-images.githubusercontent.com/31792522/69525517-0f9be580-0f8a-11ea-8a92-691fe911fb39.jpg)
