@@ -15,7 +15,7 @@ Header: Шапка сайта
 
 **Блок Item2**
 
-![screenshot of block Item2]()
+![screenshot of block Item2](https://user-images.githubusercontent.com/31792522/69572964-00975080-0fe7-11ea-8a51-82e4d6a7bfc5.jpg)
 
 <hr>
 
