@@ -24,6 +24,7 @@ body {
 		display: flex;
 			align-items: stretch;
 			justify-content: space-between;
+			align-items: center;
 	}
 		.img-blabs {
 			width: 380px;
