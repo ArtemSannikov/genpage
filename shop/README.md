@@ -9,7 +9,7 @@ Shop: Магазин
 
 **Блок Item1**
 
-![screenshot of block Item1]()
+![screenshot of block Item1](https://user-images.githubusercontent.com/31792522/69697904-b062e000-1105-11ea-8e40-1197ee032643.jpg)
 
 <hr>
 

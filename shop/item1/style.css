@@ -19,7 +19,7 @@ body {
 	.shop {
 		width: 1200px;
 		height: auto;
-			display: block;
+			display: flex;
 			justify-content: space-between;
 		margin: 0 auto;
 		padding: 80px 0;
@@ -28,7 +28,50 @@ body {
 			width: 650px;
 			height: auto;
 		}
-		.text-blshs {
+		.content-blshs {
 			width: 500px;
 			height: auto;
 		}
+			.content-blshs h2 {
+				font-size: 20px;
+				font-weight: bold;
+				color: #333;
+				line-height: 1;
+				margin: 0 0 15px 0;
+			}
+			.content-blshs p.codeProduct-blshs {
+				font-size: 14px;
+				color: #666;
+				line-height: 1;
+				margin: 0 0 30px 0;
+			}
+			.content-blshs p.priceProduct-blshs {
+				font-size: 18px;
+				font-weight: 600;
+				color: #333;
+				line-height: 1;
+				margin: 0 0 30px 0;				
+			}
+			.content-blshs a.buyNow-blshs {
+				display: inline-block;
+				padding: 15px 30px;
+				border-radius: 25px;
+				background-color: #ff4a4a;
+				font-size: 14px;
+				font-weight: 600;
+				text-transform: uppercase;
+				color: #fff;
+				text-align: center;
+				line-height: 1;
+				text-decoration: none;
+				margin: 0 0 30px 0;
+				cursor: pointer;
+			}
+				.content-blshs a.buyNow-blshs:hover {
+					background-color: #dc4040;
+				}
+			.content-blshs p.descriptionProduct-blshs {
+				font-size: 14px;
+				color: #333;
+				line-height: 1.8;			
+			}
