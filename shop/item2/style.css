@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700&subset=cyrillic');
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	background-color: #fff;
+	letter-spacing: 0.2px;
+}
+
+#wrapper-shop {
+	width: 100%;
+	height: auto;
+	background-color: #fff;
+}
+	.shop {
+		width: 1200px;
+		height: auto;
+		margin: 0 auto;
+		padding: 80px 0;
+	}
+		.boxProduct-blshs {
+			width: 100%;
+			height: auto;
+			display: flex;
+				justify-content: space-between;
+			border-bottom: 1px solid #efefef;
+			padding: 0 0 50px 0;
+			margin: 0 0 50px 0;
+		}
+				.boxProduct-blshs:last-child {
+					margin: 0 0 0 0;
+					padding: 0 0 0 0;
+					border-bottom: 0;
+				}
+			.img-blshs {
+				width: 250px;
+				height: auto;
+			}
+				.img-blshs img {
+					display: block;
+					vertical-align: bottom;
+					max-width: 100%;
+				}
+			.content-blshs {
+				width: 900px;
+				height: auto;
+			}
+				.content-blshs h2 {
+					font-size: 20px;
+					font-weight: bold;
+					color: #333;
+					line-height: 1;
+					margin: 0 0 20px 0;
+				}
+				.content-blshs p.priceProduct-blshs {
+					font-size: 18px;
+					font-weight: 600;
+					color: #333;
+					line-height: 1;
+					margin: 0 0 20px 0;				
+				}
+				.content-blshs p.descriptionProduct-blshs {
+					font-size: 14px;
+					color: #333;
+					line-height: 1.8;
+					margin: 0 0 20px 0;		
+				}
+				.content-blshs a.buyNow-blshs {
+					display: inline-block;
+					padding: 15px 30px;
+					border-radius: 25px;
+					background-color: #ff4a4a;
+					font-size: 14px;
+					font-weight: 600;
+					text-transform: uppercase;
+					color: #fff;
+					text-align: center;
+					line-height: 1;
+					text-decoration: none;
+					cursor: pointer;
+				}
+					.content-blshs a.buyNow-blshs:hover {
+						background-color: #dc4040;
+					}
