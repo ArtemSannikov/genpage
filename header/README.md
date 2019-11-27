@@ -16,39 +16,3 @@ Header: Шапка сайта
 **Блок Item2**
 
 ![screenshot of block Item2](https://user-images.githubusercontent.com/31792522/69572964-00975080-0fe7-11ea-8a51-82e4d6a7bfc5.jpg)
-
-<hr>
-
-**Блок Item3**
-
-![screenshot of block Item3]()
-
-<hr>
-
-**Блок Item4**
-
-![screenshot of block Item4]()
-
-<hr>
-
-**Блок Item5**
-
-![screenshot of block Item5]()
-
-<hr>
-
-**Блок Item6**
-
-![screenshot of block Item6]()
-
-<hr>
-
-**Блок Item7**
-
-![screenshot of block Item7]()
-
-<hr>
-
-**Блок Item8**
-
-![screenshot of block Item8]()
