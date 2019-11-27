@@ -19,47 +19,52 @@ body {
 	.shop {
 		width: 1200px;
 		height: auto;
-			display: flex;
-			justify-content: space-between;
 		margin: 0 auto;
 		padding: 80px 0;
 	}
-		.img-blshs {
-			width: 650px;
+		.boxProduct-blshs {
+			width: 100%;
 			height: auto;
 		}
-			.img-blshs img {
+			.boxProduct-blshs img {
 				display: block;
 				vertical-align: bottom;
 				max-width: 100%;
+				margin: 0 auto 50px auto;
 			}
-		.content-blshs {
-			width: 500px;
-			height: auto;
-		}
-			.content-blshs h2 {
+			.boxProduct-blshs h2 {
 				font-size: 20px;
 				font-weight: bold;
 				color: #333;
 				line-height: 1;
-				margin: 0 0 15px 0;
-			}
-			.content-blshs p.codeProduct-blshs {
-				font-size: 14px;
-				color: #666;
-				line-height: 1;
 				margin: 0 0 30px 0;
+				text-align: center;
 			}
-			.content-blshs p.priceProduct-blshs {
+			.boxProduct-blshs p.descriptionProduct-blshs {
+				font-size: 14px;
+				color: #333;
+				line-height: 1.8;
+				margin: 0 0 30px 0;
+				text-align: center;
+			}
+			.boxProduct-blshs p.priceProduct-blshs {
 				font-size: 18px;
 				font-weight: 600;
 				color: #333;
 				line-height: 1;
-				margin: 0 0 30px 0;				
+				margin: 0 0 30px 0;
+				text-align: center;
 			}
-			.content-blshs a.buyNow-blshs {
-				display: inline-block;
-				padding: 15px 30px;
+				.boxProduct-blshs p.priceProduct-blshs > span.oldPrice-blshs {
+					color: #999;
+					text-decoration: line-through;
+				}
+			.boxProduct-blshs a.buyNow-blshs {
+				display: block;
+				width: 150px;
+				height: auto;
+				padding: 15px 0;
+				margin: 0 auto;
 				border-radius: 25px;
 				background-color: #ff4a4a;
 				font-size: 14px;
@@ -69,14 +74,8 @@ body {
 				text-align: center;
 				line-height: 1;
 				text-decoration: none;
-				margin: 0 0 30px 0;
 				cursor: pointer;
 			}
-				.content-blshs a.buyNow-blshs:hover {
+				.boxProduct-blshs a.buyNow-blshs:hover {
 					background-color: #dc4040;
 				}
-			.content-blshs p.descriptionProduct-blshs {
-				font-size: 14px;
-				color: #333;
-				line-height: 1.8;			
-			}
