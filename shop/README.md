@@ -33,7 +33,7 @@ Shop: Магазин
 
 **Блок Item5**
 
-![screenshot of block Item5]()
+![screenshot of block Item5](https://user-images.githubusercontent.com/31792522/69713813-0431f100-1127-11ea-88e0-7bbe0d0b14fe.jpg)
 
 <hr>
 
