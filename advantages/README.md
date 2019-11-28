@@ -9,19 +9,19 @@ Advantages: Преимущества
 
 **Блок Item1**
 
-![screenshot of block Item1]()
+![screenshot of block Item1](https://user-images.githubusercontent.com/31792522/69805515-a377e680-1202-11ea-948d-c67b3aae6987.jpg)
 
 <hr>
 
 **Блок Item2**
 
-![screenshot of block Item2]()
+![screenshot of block Item2](https://user-images.githubusercontent.com/31792522/69805517-a377e680-1202-11ea-94d6-c353e151116e.jpg)
 
 <hr>
 
 **Блок Item3**
 
-![screenshot of block Item3]()
+![screenshot of block Item3](https://user-images.githubusercontent.com/31792522/69805518-a4107d00-1202-11ea-96a4-923dcb71a987.jpg)
 
 <hr>
 
