@@ -49,6 +49,7 @@ body {
 		.listAdvantages-bladvs {
 			width: 1200px;
 			height: auto;
+			margin: 0 0 50px 0;
 		}
 			.listAdvantages-bladvs ul {
 				width: 100%;
@@ -61,18 +62,21 @@ body {
 				.listAdvantages-bladvs ul li {
 					width: 300px;
 					height: auto;
-					margin: 0 50px 0 0;
+					padding: 0 30px;
+					border-right: 2px solid #efefef;
 				}
 						.listAdvantages-bladvs ul li:last-child {
-							margin: 0 0 0 0;
+							border-right: 0;
 						}
-					.listAdvantages-bladvs ul li img {
-							display: block;
-							vertical-align: bottom;
-							max-width: 100%;
-							border-radius: 50%;
-							margin: 0 auto 30px auto;
-						}
+
+					.listAdvantages-bladvs ul li p.countAdvantages-bladvs {
+						font-size: 18px;
+						font-weight: bold;
+						line-height: 1;
+						color: #199c68;
+						text-align: center;
+						margin: 0 0 20px 0;
+					}
 					.listAdvantages-bladvs ul li h2 {
 							font-size: 18px;
 							color: #333;
@@ -87,3 +91,21 @@ body {
 							color: #666;
 							text-align: center;
 						}
+		.advantages a.learnMore-bladvs {
+			display: block;
+			width: 100px;
+			margin: 0 auto;
+			cursor: pointer;
+			font-size: 14px;
+			font-weight: 600;
+			line-height: 1;
+			color: #fff;
+			text-align: center;
+			text-decoration: none;
+			padding: 15px 25px;
+			border-radius: 25px;
+			background-color: #199c68;
+		}
+			.advantages a.learnMore-bladvs:hover {
+				background-color: #168458;
+			}

@@ -15,13 +15,13 @@ Advantages: Преимущества
 
 **Блок Item2**
 
-![screenshot of block Item2](https://user-images.githubusercontent.com/31792522/69805517-a377e680-1202-11ea-94d6-c353e151116e.jpg)
+![screenshot of block Item2](https://user-images.githubusercontent.com/31792522/69807377-f784ca00-1206-11ea-9a49-748b69212e3b.jpg)
 
 <hr>
 
 **Блок Item3**
 
-![screenshot of block Item3](https://user-images.githubusercontent.com/31792522/69805518-a4107d00-1202-11ea-96a4-923dcb71a987.jpg)
+![screenshot of block Item3](https://user-images.githubusercontent.com/31792522/69807224-90671580-1206-11ea-9a7f-400b8a10601d.jpg)
 
 <hr>
 
@@ -33,22 +33,4 @@ Advantages: Преимущества
 
 **Блок Item5**
 
-![screenshot of block Item5]()
-
-<hr>
-
-**Блок Item6**
-
-![screenshot of block Item6]()
-
-<hr>
-
-**Блок Item7**
-
-![screenshot of block Item7]()
-
-<hr>
-
-**Блок Item8**
-
-![screenshot of block Item8]()
+![screenshot of block Item5](https://user-images.githubusercontent.com/31792522/69807155-6a417580-1206-11ea-9e38-9246686fb65b.jpg)
