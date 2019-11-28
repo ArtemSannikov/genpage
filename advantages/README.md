@@ -27,7 +27,7 @@ Advantages: Преимущества
 
 **Блок Item4**
 
-![screenshot of block Item4]()
+![screenshot of block Item4](https://user-images.githubusercontent.com/31792522/69806584-0a969a80-1205-11ea-98a5-d6986dbffd98.jpg)
 
 <hr>
 

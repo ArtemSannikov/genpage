@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700&subset=cyrillic');
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	background-color: #fff;
+	letter-spacing: 0.2px;
+}
+
+#wrapper-advantages {
+	width: 100%;
+	height: auto;
+	background-color: #fff;
+}
+	.advantages {
+		width: 1200px;
+		height: auto;
+		margin: 0 auto;
+		padding: 50px 0;
+	}
+		.title-bladvs {
+			width: 1200px;
+			height: auto;
+		}
+			.title-bladvs h1 {
+				font-size: 24px;
+				color: #333;
+				line-height: 1;
+				font-weight: bold;
+				text-transform: uppercase;
+			}
+		.listAdvantages-bladvs {
+			width: 1200px;
+			height: auto;
+		}
+			.listAdvantages-bladvs ul {
+				width: 100%;
+				height: auto;
+				display: flex;
+					justify-content: center;
+					flex-wrap: wrap;
+				list-style-type: none;
+				list-style-position: inside;
+			}
+				.listAdvantages-bladvs ul li {
+					width: 360px;
+					height: auto;
+					margin: 60px 60px 0 0;
+				}
+						.listAdvantages-bladvs ul li:nth-child(3n+3) {
+							margin: 60px 0 0 0;
+						}
+					.listAdvantages-bladvs ul li img {
+							display: block;
+							vertical-align: bottom;
+							max-width: 100%;
+							margin: 0 0 30px 0;
+							border-radius: 50%;
+						}
+					.listAdvantages-bladvs ul li h2 {
+							font-size: 18px;
+							color: #333;
+							line-height: 1;
+							font-weight: 600;
+							margin: 0 0 15px 0;
+						}
+						.listAdvantages-bladvs ul li p {
+							font-size: 14px;
+							line-height: 1.8;
+							color: #666;
+						}
