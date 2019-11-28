@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700&subset=cyrillic');
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	background-color: #fff;
+	letter-spacing: 0.2px;
+}
+
+#wrapper-shop {
+	width: 100%;
+	height: auto;
+	background-color: #fff;
+}
+	.shop {
+		width: 1200px;
+		height: auto;
+		display: flex;
+			justify-content: space-between;
+			flex-wrap: wrap;
+			align-items: stretch;
+		margin: 0 auto;
+		padding: 80px 0;
+	}
+		.boxProduct-blshs {
+			width: 208px;
+			height: auto;
+			border: 1px solid #efefef;
+			padding: 30px 30px;
+			margin: 0 0 40px 0;
+		}
+				.boxProduct-blshs:nth-child(5n),
+				.boxProduct-blshs:nth-child(6n),
+				.boxProduct-blshs:nth-child(7n),
+				.boxProduct-blshs:nth-child(8n) {
+					margin: 0 0 0 0;
+				}
+			.boxProduct-blshs img {
+				display: block;
+				vertical-align: bottom;
+				max-width: 100%;
+				margin: 0 auto 20px auto;
+			}
+			.boxProduct-blshs h2 {
+				font-size: 16px;
+				font-weight: bold;
+				color: #333;
+				line-height: 1;
+				margin: 0 0 15px 0;
+				text-align: center;
+			}
+			.boxProduct-blshs p.priceProduct-blshs {
+				font-size: 14px;
+				font-weight: 600;
+				color: #333;
+				line-height: 1;
+				margin: 0 0 20px 0;
+				text-align: center;
+			}
+				.boxProduct-blshs p.priceProduct-blshs > span.oldPrice-blshs {
+					color: #999;
+					text-decoration: line-through;
+				}
+			.boxProduct-blshs a.buyNow-blshs {
+				display: block;
+				width: 100px;
+				height: auto;
+				padding: 12px 0;
+				margin: 0 auto;
+				border-radius: 25px;
+				background-color: #ff4a4a;
+				font-size: 14px;
+				font-weight: 600;
+				text-transform: uppercase;
+				color: #fff;
+				text-align: center;
+				line-height: 1;
+				text-decoration: none;
+				cursor: pointer;
+			}
+				.boxProduct-blshs a.buyNow-blshs:hover {
+					background-color: #dc4040;
+				}

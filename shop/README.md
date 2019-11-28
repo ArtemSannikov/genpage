@@ -40,3 +40,15 @@ Shop: Магазин
 **Блок Item6**
 
 ![screenshot of block Item6](https://user-images.githubusercontent.com/31792522/69723678-02265d00-113c-11ea-9bce-9f15114a0f58.jpg)
+
+<hr>
+
+**Блок Item7**
+
+![screenshot of block Item7](https://user-images.githubusercontent.com/31792522/69800494-2d21b700-11f7-11ea-8f1c-7801d2ddae6f.jpg)
+
+<hr>
+
+**Блок Item8**
+
+![screenshot of block Item8](https://user-images.githubusercontent.com/31792522/69800495-2d21b700-11f7-11ea-8281-95da26a759df.jpg)
