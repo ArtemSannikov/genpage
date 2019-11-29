@@ -46,3 +46,9 @@ Advantages: Преимущества
 **Блок Item7**
 
 ![screenshot of block Item7](https://user-images.githubusercontent.com/31792522/69857336-9bc34b00-12b1-11ea-8bb2-858098c676d3.jpg)
+
+<hr>
+
+**Блок Item8**
+
+![screenshot of block Item8](https://user-images.githubusercontent.com/31792522/69858406-c2828100-12b3-11ea-8b39-4e59674c81c6.jpg)
