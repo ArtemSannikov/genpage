@@ -21,7 +21,7 @@ Form: Форма
 
 **Блок Item3**
 
-![screenshot of block Item3]()
+![screenshot of block Item3](https://user-images.githubusercontent.com/31792522/69937921-c275c180-14fd-11ea-8f68-d933a53bb536.jpg)
 
 <hr>
 
