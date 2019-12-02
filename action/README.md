@@ -15,7 +15,7 @@ Action: Призыв к действию
 
 **Блок Item2**
 
-![screenshot of block Item2]()
+![screenshot of block Item2](https://user-images.githubusercontent.com/31792522/69951156-8ac74380-1516-11ea-8071-daa1efe2a160.jpg)
 
 <hr>
 
