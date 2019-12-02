@@ -39,7 +39,7 @@ Form: Форма
 
 **Блок Item6**
 
-![screenshot of block Item6]()
+![screenshot of block Item6](https://user-images.githubusercontent.com/31792522/69946244-19cf5e00-150d-11ea-9c44-4a6943961255.jpg)
 
 <hr>
 
