@@ -33,7 +33,7 @@ Form: Форма
 
 **Блок Item5**
 
-![screenshot of block Item5]()
+![screenshot of block Item5](https://user-images.githubusercontent.com/31792522/69944711-c0b1fb00-1509-11ea-9f5a-53cc32185676.jpg)
 
 <hr>
 
