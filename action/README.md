@@ -22,33 +22,3 @@ Action: Призыв к действию
 **Блок Item3**
 
 ![screenshot of block Item3](https://user-images.githubusercontent.com/31792522/70020720-a03c7c00-15af-11ea-9a66-2d73e0dc05e9.jpg)
-
-<hr>
-
-**Блок Item4**
-
-![screenshot of block Item4]()
-
-<hr>
-
-**Блок Item5**
-
-![screenshot of block Item5]()
-
-<hr>
-
-**Блок Item6**
-
-![screenshot of block Item6]()
-
-<hr>
-
-**Блок Item7**
-
-![screenshot of block Item7]()
-
-<hr>
-
-**Блок Item8**
-
-![screenshot of block Item8]()
